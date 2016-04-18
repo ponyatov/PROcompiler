@@ -1,7 +1,7 @@
 # PROcompiler
 ### Tiny Compiler written in Prolog
 
-This demo of automatic programming using Prolog logic programming
+This is demo of automatic programming using Prolog
 
 (c) Dmitry Ponyatov <dponyatov@gmail.com>
 
